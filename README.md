@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ernesto Camilo Zuleta Suárez 👋</h1>
 
-<!--
-**eczuletas/eczuletas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Welcome! This profile showcases examples of my personal projects and experience in data science and machine learning. Enjoy exploring!
+</h3>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My research focuses on long-duration energy storage.
+- I have experience in electrochemistry and materials characterization.
+- I earned a Ph.D. in Energy Science and Engineering.
+- I am interested in data analysis and machine learning.
+
+
+
