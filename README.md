@@ -6,7 +6,7 @@ Welcome! This profile showcases examples of my personal projects and experience 
 
 ## About Me
 
-- I earned a Ph.D. in Energy Science and Engineering.
+- I earned a Ph.D. in Energy Science and Engineering at UTK.
 - My research focuses on long-duration energy storage.
 - I have experience in electrochemistry and materials characterization.
 - I am interested in data analysis and machine learning.
